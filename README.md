@@ -1,10 +1,10 @@
 # Apuntes-Tester
 
--Para saber que tapa retirar para habrir la tore hay que fijarse donde estan situados los conectores usb y de mas en el panel trasero, sabiendo donde estan hay que retirar  la tapa opuesta.
+-Para saber que tapa retirar para habrir la torre hay que fijarse donde estan situados los conectores usb y de mas en el panel trasero, sabiendo donde estan hay que retirar  la tapa opuesta.
 
--Hay que quitar los tornillos y se pueden dedejar en el tecladoya que siempre hay uno cerca.
+-Hay que quitar los tornillos y se pueden dedejar en el teclado ya que siempre hay uno cerca.
 
--Una buena obcio para quitar la pasta termica seca es con las tarjetas de empresas siempre que esten plastificadas, tambuen sireven para aplicar la pasta.
+-Una buena obcion para quitar la pasta termica seca es con las tarjetas de empresas siempre que esten plastificadas, tambien sireven para aplicar la pasta.
 
 -Simbolojias  de corriente continua y corriente alterna en el tester.
 
